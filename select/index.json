@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "窓辺の栞",
+  "base_artist": "Lucia",
+  "createdAt": "2026-01-03T18:12:06.741869Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "窓辺の栞",
+      "artist": "Lucia",
+      "has_synced": false,
+      "path": "select/pl_01_窓辺の栞_Lucia.txt"
+    }
+  ]
+}
